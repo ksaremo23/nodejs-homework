@@ -1,0 +1,7 @@
+- .env
+- usersModel.js
+- app.js
+- userRouter.js
+- usersController.js
+- bcrypt, jsonwebtoken
+- authenticateToken middleware
